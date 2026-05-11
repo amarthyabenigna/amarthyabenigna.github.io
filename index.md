@@ -4,11 +4,8 @@ layout: default
 
 
 
-[Link to another page](./another-page.html).
+.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Introduction
 
@@ -39,7 +36,7 @@ end
 
 #### Let's Connect 
 
-*   This is an unordered list following a header.
+[Linkedin](./www.linkedin.com/in/amarthyabenigna)
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
