@@ -1,37 +1,17 @@
 ---
 layout: default
 ---
-
-
-
 .
-
-
 # Introduction
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a PhD candidate working on the integrated development of sustainable packaging materials from lignocellulosic waste. My research connects laboratory-scale material development with process modelling, techno-economic analysis, and life cycle assessment to evaluate the feasibility, scalability, and environmental performance of bio-based packaging solutions.
 
-## Experiences
+My research interests include sustainable alternatives to conventional plastics, food packaging innovation, circular bioeconomy approaches, and education. I am especially interested in how waste-derived resources can be transformed into practical packaging materials that support a more sustainable and circular future.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Beyond research, I bring experience in project coordination and management through my previous role as an Assistant Project Manager, where I developed skills in planning, communication, teamwork, and stakeholder coordination.
 
 ### Publications
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+1. 
 ```
 
 #### Let's Connect 
