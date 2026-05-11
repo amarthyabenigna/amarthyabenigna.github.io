@@ -23,11 +23,3 @@ Beyond research, I bring experience in project coordination and management throu
 [Email](aba424@ic.ac.uk)
 [Hallett Group Website](https://www.imperial.ac.uk/hallett-group/)
 ```
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
