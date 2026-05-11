@@ -14,9 +14,9 @@ Beyond research, I bring experience in project coordination and management throu
 Thanks for visiting my page, feel free to contact me for collaboration or just to say hi!
 
 # Education
-1. PhD - Chemical Engineering, Imperial College London (2025 - Present)
-2. MEngSc - Food Process Engineering, University  of New South Wales (2023 - 2024)
-3. BSc - Chemical Engineering, Institut Teknologi Bandung (2018 - 2022)
+1. PhD - Chemical Engineering, Imperial College London, United Kingdom (2025 - Present)
+2. MEngSc - Food Process Engineering, University  of New South Wales, Australia (2023 - 2024)
+3. BSc - Chemical Engineering, Institut Teknologi Bandung, Indonesia (2018 - 2022)
    
 # Publications
 1. [Life cycle assessment of decaffeinated coffee beans production (2025)](https://jets.itb.ac.id/jets/article/view/115/182)
