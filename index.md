@@ -24,31 +24,6 @@ Beyond research, I bring experience in project coordination and management throu
 [Hallett Group Website](https://www.imperial.ac.uk/hallett-group/)
 ```
 
-#### Let's Connect 
-
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
