@@ -8,7 +8,7 @@ I am a PhD candidate in the Hallett Group within the Department of Chemical Engi
 
 My project integrates laboratory-scale experiments, process modelling, techno-economic analysis, and life cycle assessment to evaluate the feasibility, scalability, and environmental performance of bio-based packaging solutions.
 
-My research interests include sustainable alternatives to conventional plastics, food packaging innovation, circular bioeconomy approaches, and higher education. 
+My research interests include sustainable alternatives to conventional plastics, food engineering, food packaging innovation, circular bioeconomy approaches, and higher education. 
 
 Beyond research, I bring experience in project coordination and management through my previous role as an Assistant Project Manager, where I developed skills in planning, communication, teamwork, and stakeholder coordination.
 
@@ -20,7 +20,8 @@ Beyond research, I bring experience in project coordination and management throu
 # Publications
 1. [Life cycle assessment of decaffeinated coffee beans production (2025)](https://jets.itb.ac.id/jets/article/view/115/182)
 2. [Effects of different decaffeination methods on caffeine contents, physicochemical, and sensory properties of coffee (2024)](https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0013/html)
-3.  
+3. [The potential of mangosteen peel as a biosorbent: A review (2024)](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/ep.14330)
+4. [Drying methods of coffee extracts and their effects on physicochemical properties: A review (2024)](https://link.springer.com/article/10.1007/s11947-023-03067-4)
 
 # Let's Connect!
 - [Email](mailto:amarthya.achmadi25@imperial.ac.uk)  
