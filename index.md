@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-.
 # Introduction
 
 I am a PhD candidate in the Hallett Group within the Department of Chemical Engineering at Imperial College London. I work at the intersection of materials development, process design, and sustainability assessment to develop sustainable packaging materials from lignocellulosic waste.
