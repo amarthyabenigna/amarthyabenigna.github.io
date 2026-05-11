@@ -36,7 +36,7 @@ end
 
 #### Let's Connect 
 
-[Linkedin](./www.linkedin.com/in/amarthyabenigna)
+[Linkedin](./linkedin.com/in/amarthyabenigna)
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
