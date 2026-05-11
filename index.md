@@ -10,7 +10,7 @@ My project integrates laboratory-scale experiments, process modelling, techno-ec
 
 My research interests include sustainable alternatives to conventional plastics, food engineering, food packaging innovation, circular bioeconomy approaches, and higher education. 
 
-Beyond research, I bring experience in project coordination and management through my previous role as an Assistant Project Manager, where I developed skills in planning, communication, teamwork, and stakeholder coordination.
+Beyond research, I bring experience in project coordination and management through my previous role as an Assistant Project Manager, where I developed skills in planning, communication, teamwork, and stakeholder coordination. Thanks for visiting my page, feel free to contact me for collaboration or just to say hi!
 
 # Education
 1. PhD - Chemical Engineering, Imperial College London (2025 - Present)
