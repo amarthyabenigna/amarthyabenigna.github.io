@@ -10,13 +10,19 @@ My research interests include sustainable alternatives to conventional plastics,
 
 Beyond research, I bring experience in project coordination and management through my previous role as an Assistant Project Manager, where I developed skills in planning, communication, teamwork, and stakeholder coordination.
 
-### Publications
-1. 
+# Education
+1. PhD - Chemical Engineering, Imperial College London (2025 - Present)
+2. MEngSc - Food Process Engineering, University  of New South Wales (2023 - 2024)
+3. BSc - Chemical Engineering, Institut Teknologi Bandung (2018 - 2022)
+# Publications
+
+# Let's Connect!
+[Linkedin](https://www.linkedin.com/in/amarthyabenigna/)
 ```
 
 #### Let's Connect 
 
-[Linkedin](https://www.linkedin.com/in/amarthyabenigna/)
+
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
