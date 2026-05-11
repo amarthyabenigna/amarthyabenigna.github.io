@@ -26,4 +26,3 @@ Beyond research, I bring experience in project coordination and management throu
 - [Email](mailto:amarthya.achmadi25@imperial.ac.uk)  
 - [LinkedIn](https://www.linkedin.com/in/amarthyabenigna/)
 - [Hallett Group Website](https://www.imperial.ac.uk/hallett-group/)
-```
