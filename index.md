@@ -3,13 +3,15 @@ layout: default
 ---
 # Introduction
 
-I am a PhD candidate in the Hallett Group within the Department of Chemical Engineering at Imperial College London. I work at the intersection of materials development, process design, and sustainability assessment to develop sustainable packaging materials from lignocellulosic waste.
+Hi there! I am a PhD candidate in the Hallett Group within the Department of Chemical Engineering at Imperial College London. I work at the intersection of materials development, process design, and sustainability assessment to develop sustainable packaging materials from lignocellulosic waste.
 
 My project integrates laboratory-scale experiments, process modelling, techno-economic analysis, and life cycle assessment to evaluate the feasibility, scalability, and environmental performance of bio-based packaging solutions.
 
 My research interests include sustainable alternatives to conventional plastics, food engineering, food packaging innovation, circular bioeconomy approaches, and higher education. 
 
-Beyond research, I bring experience in project coordination and management through my previous role as an Assistant Project Manager, where I developed skills in planning, communication, teamwork, and stakeholder coordination. Thanks for visiting my page, feel free to contact me for collaboration or just to say hi!
+Beyond research, I bring experience in project coordination and management through my previous role as an Assistant Project Manager, where I developed skills in planning, communication, teamwork, and stakeholder coordination. 
+
+Thanks for visiting my page, feel free to contact me for collaboration or just to say hi!
 
 # Education
 1. PhD - Chemical Engineering, Imperial College London (2025 - Present)
