@@ -5,7 +5,7 @@ layout: default
 
 Hi there! I am a PhD candidate in the Hallett Group within the Department of Chemical Engineering at Imperial College London. I work at the intersection of materials development, process design, and sustainability assessment to develop sustainable packaging materials from lignocellulosic waste.
 
-My project integrates laboratory-scale experiments, process modelling, techno-economic analysis, and life cycle assessment to evaluate the feasibility, scalability, and environmental performance of bio-based packaging solutions.
+My project integrates laboratory-scale experiments, process modelling, techno-economic analysis, and life cycle assessment to evaluate the feasibility, scalability, and environmental performance of bio-based packaging solutions. Specifically, my project uses the ionoSolv method developed in our lab to fractionate biomass, isolating cellulose for further processing. 
 
 My research interests include sustainable alternatives to conventional plastics, food engineering, food packaging innovation, circular bioeconomy approaches, and higher education. 
 
